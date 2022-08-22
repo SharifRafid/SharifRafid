@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend Development With React, NextJS and Web3**
 
-- 🌱 I’m currently learning **Django (PYTHON), MongoDB, PostgreSQL**
+- 🌱 I’m currently learning **ExpressJS , MongoDB**
 
 - 👯 I’m looking to collaborate on [Opensource Projects](https://github.com/obboy/obboy.github.io)
 
