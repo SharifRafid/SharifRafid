@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifrafid&label=Profile%20views&color=0e75b6&style=flat" alt="sharifrafid" /> </p>
 
-- 🔭 I’m currently working on **Frontend Development With React, NextJS and Web3**
+- 🔭 I’m currently working on **Multiplatform apps using flutter**
 
-- 🌱 I’m currently learning **ExpressJS , MongoDB**
+- 🌱 I’m currently learning **ExpressJS, MongoDB, Flutter**
 
 - 👯 I’m looking to collaborate on [Opensource Projects](https://github.com/obboy/obboy.github.io)
 
